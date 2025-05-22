@@ -14,7 +14,7 @@ export default function Home() {
           {/* Text */}
           <div className="flex-1 space-y-6">
             <h1 className="text-5xl md:text-6xl font-bold text-purple-800">
-              Hi, I'm Suhani Mehra 👋
+              Hi, Iam Suhani Mehra 👋
             </h1>
             <h2 className="text-xl md:text-2xl text-black">
               A Web Developer & Computer Science Student
@@ -173,7 +173,7 @@ export default function Home() {
         <section id="contact" className="h-screen flex flex-col items-center justify-center text-center px-8 bg-gray-100">
           <h2 className="text-3xl font-bold text-purple-800 mb-6">Contact Me</h2>
           <p className="text-md text-gray-700 max-w-xl mb-6">
-            I'd love to hear from you! Feel free to reach out via email or through my social media.
+            I  would love to hear from you! Feel free to reach out via email or through my social media.
           </p>
           <div className="space-y-2 text-gray-800">
             <p>Email: <a href="mailto:mehrasuhani.sm88@gmail.com" className="text-purple-600 underline">mehrasuhani.sm88@gmail.com</a></p>
