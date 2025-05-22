@@ -14,7 +14,7 @@ export default function Home() {
           {/* Text */}
           <div className="flex-1 space-y-6">
             <h1 className="text-5xl md:text-6xl font-bold text-purple-800">
-              Hi, Iam Suhani Mehra 👋
+              Hi, I am Suhani Mehra 👋
             </h1>
             <h2 className="text-xl md:text-2xl text-black">
               A Web Developer & Computer Science Student
